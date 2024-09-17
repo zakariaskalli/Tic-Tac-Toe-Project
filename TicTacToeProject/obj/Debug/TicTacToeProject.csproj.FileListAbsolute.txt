@@ -1,0 +1,10 @@
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\bin\Debug\TicTacToeProject.exe.config
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\bin\Debug\TicTacToeProject.exe
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\bin\Debug\TicTacToeProject.pdb
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\obj\Debug\TicTacToeProject.csproj.AssemblyReference.cache
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\obj\Debug\TicTacToeProject.Form1.resources
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\obj\Debug\TicTacToeProject.Properties.Resources.resources
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\obj\Debug\TicTacToeProject.csproj.GenerateResource.cache
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\obj\Debug\TicTacToeProject.csproj.CoreCompileInputs.cache
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\obj\Debug\TicTacToeProject.exe
+C:\Programation Level 2\FirstWinForms\TicTacToeProject\obj\Debug\TicTacToeProject.pdb
